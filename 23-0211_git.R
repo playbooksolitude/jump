@@ -76,6 +76,8 @@ smaller |> ggplot(aes(x = z)) +
 #---
 #test
 
+mpg
+library(tidyverse)
 
 
 
