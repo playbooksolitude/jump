@@ -63,3 +63,5 @@ sum(a2)
 mean(a2)
 (556/9466)*100
 mean(a2)/sum(a2)
+
+#check--
