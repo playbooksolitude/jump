@@ -68,6 +68,6 @@ kobis_3_world |> group_by(distributor, title) |>
   summarise(sum = sum(all_earn, na.rm = T)/1000000000) |> 
   arrange(desc(sum))
 
-
+diamonds
 
 
